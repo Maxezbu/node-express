@@ -1,0 +1,19 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxezbu/node-express.git"
+  },
+  "author": "Eze Buru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxezbu/node-express/issues"
+  },
+  "homepage": "https://github.com/Maxezbu/node-express#readme",
+  "description": ""
+}
